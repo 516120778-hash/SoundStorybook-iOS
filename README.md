@@ -29,7 +29,7 @@
 
 ## 📱 App 截图
 
-| 模式选择 | 创作工作室 | 故事书架 |
+| 模式选择 | 创作工作室 | 主题引导 |
 |:---:|:---:|:---:|
 | <img src="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/%E6%A8%A1%E5%BC%8F%E9%80%89%E6%8B%A9.png?raw=true" width="250"> | <img src="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/%E5%88%9B%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4.png?raw=true" width="250"> | <img src="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/%E6%95%85%E4%BA%8B%E4%B9%A6%E6%9E%B6.png?raw=true" width="250"> |
 
