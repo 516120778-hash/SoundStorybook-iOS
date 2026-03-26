@@ -10,14 +10,14 @@
 
 ---
 
-## 📺 产品演示视频 (Demo Video)
+## 📺 产品演示视频 (YouTube)
 
 <p align="center">
-  <a href="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/demo_video.mp4">
-    <img src="https://raw.githubusercontent.com/516120778-hash/SoundStorybook-iOS/main/assets/%E4%B8%BB%E9%A1%B5.png" width="600" alt="点击观看演示视频">
+  <a href="https://youtu.be/R5XG0g_OJxA">
+    <img src="https://raw.githubusercontent.com/516120778-hash/SoundStorybook-iOS/main/assets/%E4%B8%BB%E9%A1%B5.png" width="600" alt="点击在 YouTube 观看视频">
   </a>
   <br>
-  <i>👆 点击上方图片观看产品核心功能演示 (1:00)</i>
+  <i>👆 点击图片前往 YouTube 观看产品核心功能演示 (1:00)</i>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 </p>
 
 * **一句话，一幅画**: 采用最自然的“口述”交互，消除绘画门槛，让孩子即兴创作。
-* **专属主角不变**: 搭载独创 **“AI角色一致性引擎”**，确保原创主角在多页故事中形象高度统一。
+* **专属主角不变**: 搭载独创 **“AI角色一致性引擎”**，确保原创主角在多页故事中形象统一。
 * **成长时光胶囊**: 自动分析并记录孩子的词汇量与表达丰富度，可视化记录语言进化轨迹。
 
 ## 🚀 技术栈
@@ -41,7 +41,7 @@
 
 ## 📱 App 截图 (3.1 版本)
 
-| 模式选择 | 创作工作室 | 主题引导 |
+| 模式选择 | 创作工作室 | 故事书架 |
 |:---:|:---:|:---:|
 | <img src="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/%E6%A8%A1%E5%BC%8F%E9%80%89%E6%8B%A9.png?raw=true" width="250"> | <img src="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/%E5%88%9B%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4.png?raw=true" width="250"> | <img src="https://github.com/516120778-hash/SoundStorybook-iOS/blob/main/assets/%E6%95%85%E4%BA%8B%E4%B9%A6%E6%9E%B6.png?raw=true" width="250"> |
 
