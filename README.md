@@ -1,3 +1,11 @@
+> ### 📢 官方组织声明 / Official Organization Statement
+> 本项目（声音绘本 Sound Storybook）由 **西古溪星信息工作室** 独立开发、运营并拥有完整知识产权。
+> This project is officially developed, operated, and owned by **Xigu Xixing Information Studio**.
+> 
+> * **官方企业邮箱 (Contact Email)**: zhaoxiaofei@xiguxixing.cn
+> * **官方网站域名 (Official Domain)**: www.xiguxixing.cn
+
+---
 # 声音绘本 (Sound Storybook)
 
 > 用声音创造世界，让想象力落地生根！
