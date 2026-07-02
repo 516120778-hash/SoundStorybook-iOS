@@ -1,6 +1,6 @@
 > ### 📢 官方组织声明 / Official Organization Statement
-> 本项目（声音绘本 Sound Storybook）由 **西古溪星信息工作室** 独立开发、运营并拥有完整知识产权。
-> This project is officially developed, operated, and owned by **Xigu Xixing Information Studio**.
+> 本项目（声音绘本 Sound Storybook）由 **西固溪星信息工作室（个体工商户）** 独立开发、运营并拥有完整知识产权。
+> This project is officially developed, operated, and owned by **Xigu Xixing Information Studio(Individually Owned Business)**.
 > 
 > * **官方企业邮箱 (Contact Email)**: zhaoxiaofei@xiguxixing.cn
 > * **官方网站域名 (Official Domain)**: www.xiguxixing.cn
